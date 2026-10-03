@@ -18,3 +18,14 @@ build/
 
 # Deep-implement session state
 01-signal-audit-fix/implementation/
+# Repository housekeeping
+Thumbs.db
+desktop.ini
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+*.swp
+*.swo
+*~
