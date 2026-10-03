@@ -18,3 +18,4 @@ build/
 
 # Deep-implement session state
 01-signal-audit-fix/implementation/
+.pytest_cache/
